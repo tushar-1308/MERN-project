@@ -1,0 +1,35 @@
+.completePage{
+    max-width: 550px;
+    margin: 0px auto;
+}
+
+.top-section{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 18px;
+    border-bottom: 1px solid gray;
+}
+
+.dp img{
+    width: 160px;
+    height: 160px;
+    border-radius: 80px;
+}
+
+.engagement{
+    display: flex;
+    justify-content: space-between;
+    width: 108%;
+}
+
+.post-section{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 18px;
+}
+
+.post{
+    width: 30%;
+    margin-bottom: 15px;
+}
